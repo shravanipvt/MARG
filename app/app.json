@@ -1,0 +1,12 @@
+{
+"expo": {
+"name": "MARG",
+"slug": "marg",
+"sdkVersion": "48.0.0",
+"platforms": ["ios", "android"],
+"version": "1.0.0",
+"orientation": "portrait",
+"icon": "./assets/icon.png",
+"userInterfaceStyle": "dark"
+}
+}
